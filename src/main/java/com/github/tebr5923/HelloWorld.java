@@ -1,3 +1,5 @@
+package com.github.tebr5923;
+
 public class HelloWorld {
  
     private String message;
